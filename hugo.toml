@@ -1,0 +1,4 @@
+baseURL = 'https://blog.wlallemand.info/'
+languageCode = 'en-us'
+title = "wlallemand's blog"
+theme = "hugo-bearcub"
