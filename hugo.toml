@@ -2,3 +2,29 @@ baseURL = 'https://blog.wlallemand.info/'
 languageCode = 'en-us'
 title = "wlallemand's blog"
 theme = "hugo-bearcub"
+copyright = "William Lallemand"
+
+enableRobotsTXT = true
+
+[languages]
+  [languages.en]
+    languageName = "en-US 🇺🇸"
+    LanguageCode = "en-US"
+    contentDir = "content"
+  [languages.fr]
+    languageName = "fr-FR 🇫🇷"
+    LanguageCode = "fr-FR"
+    contentDir = "content.fr"
+
+[params]
+  madeWith = "Made with [Bear Cub](https://github.com/clente/hugo-bearcub)"
+  description = "wlallemand's blog"
+  title = "wlallemand's blog"
+  dateFormat = "2006-01-02"
+  mastodon = "https://techhub.social/@sekh"
+[[params.social]]
+
+
+[params.author]
+  name = "William Lallemand"
+  email = "wlallemand@irq6.net"
