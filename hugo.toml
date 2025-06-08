@@ -11,10 +11,6 @@ enableRobotsTXT = true
     languageName = "en-US 🇺🇸"
     LanguageCode = "en-US"
     contentDir = "content"
-  [languages.fr]
-    languageName = "fr-FR 🇫🇷"
-    LanguageCode = "fr-FR"
-    contentDir = "content.fr"
 
 [params]
   madeWith = "Made with [Bear Cub](https://github.com/clente/hugo-bearcub)"
