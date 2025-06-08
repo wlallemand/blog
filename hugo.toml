@@ -17,7 +17,7 @@ enableRobotsTXT = true
   description = "wlallemand's blog"
   title = "wlallemand's blog"
   dateFormat = "2006-01-02"
-  mastodon = "https://techhub.social/@sekh"
+  mastodon = "https://mastodon.social/@wlallemand"
 [[params.social]]
 
 
